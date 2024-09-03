@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Software Engineering Student at IPB University<br>📚 I'm currently learning Python, Selenium, Katalon, Cypress, Appium, Etc.<br>👨‍💻 Software QA | Web testing | UI/UX Design esthusiast<br>🤝 Open for work/partnership<br>📧 Contact me on: workwithdam@gmail.com</p>
+<p align="left">🎓 Software Engineering Student at IPB University<br>📚 I'm currently learning Python, Selenium, Katalon, Cypress, Appium, Etc.<br>👨‍💻 QA Engineering | Web testing | UI/UX Design esthusiast<br>🤝 Open for work/partnership<br>📧 Contact me on: workwithdam@gmail.com</p>
 
 ###
 
