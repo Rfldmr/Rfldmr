@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">As a software engineering student with a passion for quality assurance, web testing, and user interface/user experience (UI/UX) design, I'm eager to dive into the software development industry and contribute to creating exceptional user experiences. My interest in QA and web testing stems from a desire to ensure software products meet the highest standards of functionality, usability, and reliability. Additionally, my passion for UI/UX design drives me to create intuitive and visually appealing interfaces that enhance user satisfaction.</p>
+<p align="left"As a software engineering student with a strong interest in quality assurance, I'm eager to pursue a career as a QA Engineer. My passion for web testing stems from a desire to ensure software products meet the highest standards of functionality, usability, and reliability. I believe that rigorous testing is crucial for delivering exceptional user experiences and building robust software solutions. I'm particularly interested in lot of tools like Selenium, Katalon, Appium, etc.</p>
 
 ###
 
