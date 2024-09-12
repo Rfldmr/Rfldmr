@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"As a software engineering student with a strong interest in quality assurance, I'm eager to pursue a career as a QA Engineer. My passion for web testing stems from a desire to ensure software products meet the highest standards of functionality, usability, and reliability. I believe that rigorous testing is crucial for delivering exceptional user experiences and building robust software solutions. I'm particularly interested in lot of tools like Selenium, Katalon, Appium, etc.</p>
+<p align="left">As a software engineering student with a strong interest in quality assurance, I'm eager to pursue a career as a QA Engineer. My passion for web testing stems from a desire to ensure software products meet the highest standards of functionality, usability, and reliability. I believe that rigorous testing is crucial for delivering exceptional user experiences and building robust software solutions. I'm particularly interested in lot of tools like Selenium, Katalon, Appium, etc.</p>
 
 ###
 
