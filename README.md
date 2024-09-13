@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Software Engineering Student at IPB University<br>📚 I'm currently learning Python, Selenium, Katalon, TestRail, Appium, Etc.<br>👨‍💻 QA Engineer | Software Quality Assurance<br>🤝 Open for work/partnership<br>📧 Contact me on: workwithdam@gmail.com</p>
+<p align="left">🎓 Software Engineering Student at IPB University<br>📚 I'm currently learning Python, Selenium, Katalon, Cypress, Appium, Etc.<br>👨‍💻 QA Engineer | Software Quality Assurance<br>🤝 Open for work/partnership<br>📧 Contact me on: workwithdam@gmail.com</p>
 
 ###
 
