@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Software Engineering Student at IPB University<br>📚 I'm currently learning Python, R, SQL, Excel, Tableau, Etc.<br>👨‍💻 Data Analyst | Data Scientist<br>🤝 Open for work/partnership<br>📧 Contact me on: workwithdam@gmail.com</p>
+<p align="left">🎓 Software Engineering Student at IPB University<br>📚 I'm currently learning Python, R, SQL, Excel, Etc.<br>👨‍💻 Data Analyst | Data Scientist<br>🤝 Open for work/partnership<br>📧 Contact me on: workwithdam@gmail.com</p>
 
 ###
 
