@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">As a software engineering student with a strong interest in quality assurance, I'm eager to pursue a career as a QA Engineer. My passion for web testing stems from a desire to ensure software products meet the highest standards of functionality, usability, and reliability. I believe that rigorous testing is crucial for delivering exceptional user experiences and building robust software solutions. I'm particularly interested in lot of tools like Selenium, Katalon, Appium, etc.</p>
+<p align="left">Hellooo, my name is Rafli Damara. I am a highly motivated Software Engineering student with a strong interest in data analysis. I am passionate about leveraging data to gain insights and drive informed decision-making. My background in Software Engineering provides a solid foundation in understanding data structures and algorithms, as well as an understanding of necessary tools such as Python, SQL, R, and others. Currently, I am actively seeking opportunities to gain practical experience and contribute to teams working with data to further enhance my skills and expertise in this field.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Software Engineering Student at IPB University<br>📚 I'm currently learning Python, Selenium, Katalon, Pytest, Appium, Etc.<br>👨‍💻 QA Engineer | Software Quality Assurance<br>🤝 Open for work/partnership<br>📧 Contact me on: workwithdam@gmail.com</p>
+<p align="left">🎓 Software Engineering Student at IPB University<br>📚 I'm currently learning Python, R, SQL, Excel, Tableau, Etc.<br>👨‍💻 Data Analyst | Data Scientist<br>🤝 Open for work/partnership<br>📧 Contact me on: workwithdam@gmail.com</p>
 
 ###
 
@@ -23,21 +23,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
 </div>
